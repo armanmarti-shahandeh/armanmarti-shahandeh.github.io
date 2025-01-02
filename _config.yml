@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Arman Marti-Shahandeh / Site Title"
+title                    : "Arman Marti-Shahandeh / Academic Profile"
 title_separator          : "-"
 name                     : &name "Arman"
 description              : &description "personal description"
@@ -22,21 +22,22 @@ repository               : "armanmarti-shahandeh/armanmarti-shahandeh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arman Marti-Shahandeh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Third-year Undergraduate Mathematics Student"
+  location         : "London, UK"
+  employer         : "University of Durham"
   uri              : # URL
-  email            : "none@example.org" 
+  personalemail    : "armanpasha@hotmail.com" 
+  institutionalemail: "arman.marti-shahandeh@durham.ac.uk"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,21 +45,22 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "armanmarti-shahandeh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Replace this with you Bluesky username
+  linkedin         : "arman-marti-shahandeh"
+  facebook         : "profile.php?id=100010149486979" 
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "arman_shahandeh"
   lastfm           : # Username
-  linkedin         : # Username
+  
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -342,7 +344,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
