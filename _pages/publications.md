@@ -11,4 +11,5 @@ redirect_from:
 
 Work in Progress
 ------
-A. Marti-Shahandeh, Y. Ren, V. Schleis: Computing Zero-dimensional Tropicalisations in OSCAR. arXiv: Not yet available.
+A. Marti-Shahandeh, Y. Ren, V. Schleis: Computing Zero-dimensional Tropicalisations in OSCAR. arXiv: Expected mid-2025.   
+ * In the meantime, see this [write-up](https://armanmarti-shahandeh.github.io/files/pseudoPaper_website.pdf) for details on the core ideas of the implementation.
