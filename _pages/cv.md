@@ -12,7 +12,8 @@ redirect_from:
 Education
 ------
 * MSc in Mathematics and Foundations of Computer Science; 2025-2026.
-  * Module Choices: Combinatorics; Probabilistic Combinatorics; Combinatorial Optimisation; Additive Combinatorics; Graph Theory; Networks; Probability on Graphs and Lattices; Geometric Deep Learning.
+  * Module Choices: Combinatorics; Probabilistic Combinatorics; Combinatorial Optimisation; Additive Combinatorics; Graph Theory; Networks; Geometric Deep Learning.
+  * Unexamined Learning: Probability on Graphs and Lattices; Computational Algebraic Topology; Graphical Models.
 * BSc in Mathematics; University of Durham; 2022-2025.
   * First-year Modules: Analysis I; Calculus I; Discrete Mathematics I; Dynamics I; Linear Algebra I; Probability I; Programming I; Statistics I.
   * Second-year Modules: Algebra II; Analysis in Many Variables II; Complex Analysis II; Elementary Number Theory II; Mathematical Physics II; Probability II; Statistical Inference II.
