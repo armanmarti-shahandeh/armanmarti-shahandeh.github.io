@@ -34,7 +34,7 @@ Work/Research experience
   * Department training substantially developed my ability to clearly explain my own mathematical reasoning and critique the arguments of others, correcting misconceptions and providing constructive feedback.
 * Undergraduate Researcher: 
   * Funding provided by the [Hatfield Trust](https://www.hatfield-association.co.uk/hatfield-trust/) Undergraduate Research Scholarship.
-  * Working under Dr. Yue Ren and Dr. Victoria Schleis, leveraging their deep-rooted expertise, and substantially developing both my collaborative and independent-learning skills.
+  * Worked under Dr. Yue Ren and Dr. Victoria Schleis, leveraging their deep-rooted expertise, and substantially developing both my collaborative and independent-learning skills.
   * Partial exploratory component of the project aimed at establishing a tropical geometric perspective of parameterised hierarchical clustering, providing an open-ended and theoretically rich introduction to the field.
   * Subsequently developed algorithms for computing the tropicalisation of a zero-dimensional variety of a polynomial system, as well as for computing the root expansion of a univariate polynomial over a local field, implementing our results as a package within the OSCAR Computational Algebra Library.
   
