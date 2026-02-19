@@ -12,8 +12,8 @@ redirect_from:
 Education
 ------
 * MSc in Mathematics and Foundations of Computer Science; 2025-2026.
-  * Module Choices: Combinatorics; Probabilistic Combinatorics; Combinatorial Optimisation; Additive Combinatorics; Graph Theory; Networks; Geometric Deep Learning.
-  * Unexamined Learning: Probability on Graphs and Lattices; Computational Algebraic Topology; Graphical Models.
+  * Module Choices: Combinatorics; Probabilistic Combinatorics; Combinatorial Optimisation; Additive Combinatorics; Graph Theory; Networks; Applied Category Theory.
+  * Unexamined Learning: Probability on Graphs and Lattices; Stochastic Analysis and PDEs.
 * BSc in Mathematics (First Class Honours); University of Durham; 2022-2025.
   * Recipient of the [Wing Commander Oakey 2023/24 Scholarship](https://armanmarti-shahandeh.github.io/files/WCO_award_email.pdf):
     * To the value of £500, awarded annually to a first-year undergraduate at Hatfield College studying a science subject who receives the best examination results at the end of first year.
@@ -37,6 +37,7 @@ Work/Research experience
   * Worked under Dr. Yue Ren and Dr. Victoria Schleis, leveraging their deep-rooted expertise, and substantially developing both my collaborative and independent-learning skills.
   * Partial exploratory component of the project aimed at establishing a tropical geometric perspective of parameterised hierarchical clustering, providing an open-ended and theoretically rich introduction to the field.
   * Subsequently developed algorithms for computing the tropicalisation of a zero-dimensional variety of a polynomial system, as well as for computing the root expansion of a univariate polynomial over a local field, implementing our results as a package within the OSCAR Computational Algebra Library.
+  * Links for the [paper](https://arxiv.org/abs/2511.23298) and the [codebase](https://github.com/armanmarti-shahandeh/Zerodimensional-Tropicalisation/)
   
 
 Extracurriculars
