@@ -12,6 +12,7 @@ redirect_from:
 Education
 ------
 * MSc in Mathematics and Foundations of Computer Science; 2025-2026.
+  * Current Grade: Distinction.
   * Module Choices: Combinatorics; Probabilistic Combinatorics; Combinatorial Optimisation; Additive Combinatorics; Graph Theory; Networks; Applied Category Theory.
   * Unexamined Learning: Probability on Graphs and Lattices; Stochastic Analysis and PDEs.
 * BSc in Mathematics (First Class Honours); University of Durham; 2022-2025.
