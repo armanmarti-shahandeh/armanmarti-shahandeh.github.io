@@ -17,7 +17,7 @@ Education
   * Unexamined Learning: Probability on Graphs and Lattices; Stochastic Analysis and PDEs.
 * BSc in Mathematics (First Class Honours); University of Durham; 2022-2025.
   * Recipient of the [Wing Commander Oakey 2023/24 Scholarship](https://armanmarti-shahandeh.github.io/files/WCO_award_email.pdf):
-    * To the value of £500, awarded annually to a first-year undergraduate at Hatfield College studying a science subject who receives the best examination results at the end of first year.
+    * To the value of £500, awarded annually to a first-year undergraduate within the Faculty of Science at Hatfield College who receives the best examination results at the end of first year.
   * First-year Modules: Analysis I; Calculus I; Discrete Mathematics I; Dynamics I; Linear Algebra I; Probability I; Programming I; Statistics I.
   * Second-year Modules: Algebra II; Analysis in Many Variables II; Complex Analysis II; Elementary Number Theory II; Mathematical Physics II; Probability II; Statistical Inference II.
   * Third-year Modules: Analysis III; Cryptography & Codes III; Differential Geometry III; Geometric Topology III; Mathematical Finance III; Stochastic Processes III.
